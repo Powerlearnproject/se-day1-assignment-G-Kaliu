@@ -135,6 +135,6 @@ Improved Prompt:
 "Explain the impact of artificial intelligence on the healthcare industry, including its benefits, challenges, and real-world applications."
 
 Why is this prompt more effective?
-✔ Clear & Specific – It specifies AI in healthcare rather than just "technology."
-✔ Concise – The request is direct and easy to understand.
-✔ Contextual – It asks for impact, benefits, challenges, and real-world applications, guiding the AI to provide a structured response.
+- Clear & Specific – It specifies AI in healthcare rather than just "technology."
+- Concise – The request is direct and easy to understand.
+- Contextual – It asks for impact, benefits, challenges, and real-world applications, guiding the AI to provide a structured response.
